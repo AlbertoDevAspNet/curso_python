@@ -9,6 +9,6 @@ class Pessoa:
         
         
 pessoa1 = Pessoa("Alice", 30)
-pessoa1.apresentar()  # Olá, meu nome é Alice e eu tenho  
+pessoa1.apresentar()  # Olá, meu nome é Alice e eu tenho 30 anos.
 pessoa2 = Pessoa("Bob", 25)
-pessoa2.apresentar()  # Olá, meu nome é Bob e eu tenho      
+pessoa2.apresentar()  # Olá, meu nome é Bob e eu tenho 25 anos.
